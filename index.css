@@ -1,0 +1,15 @@
+#left-side {
+  margin: auto;
+  text-align: right;
+  color: red;
+}
+
+#right-side {
+  margin: auto;
+  text-align: left;
+  color: blue;
+}
+
+a {
+  text-decoration: none;
+}
